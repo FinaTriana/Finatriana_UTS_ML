@@ -1,11 +1,11 @@
 UTS Machine Learning — Deteksi Berita Hoax  
 Oleh: Fina Triana (10222132)
-Prodi Teknik Informatika – Universitas Sekolah Tinggi Teknologi Cioasung
+Prodi Teknik Informatika – Sekolah Tinggi Teknologi Cioasung
 
 ---
 
 # Deskripsi Proyek  
-Proyek ini dibuat dalam rangka UTS Mata Kuliah *Machine Learning*.  
+Proyek ini dibuat dalam rangka UTS Mata Kuliah Machine Learning.  
 Tujuan utama dari proyek ini adalah:
 
 ✅ Membangun model Machine Learning untuk mendeteksi "apakah sebuah berita bersifat hoax atau valid" 
